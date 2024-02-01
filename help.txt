@@ -1,0 +1,9 @@
+Voici le célèbre jeu Dunk Hunt repris à ma façon en CSFML.
+Le but du jeu reste le même : tirer sur le personnage avant que celui-ci ne sorte de la fenêtre.
+COMMENT JOUER ?
+Dans le dossier, utiliser la commande "make" dans le terminale, puis "./my_hunter" pour l'exécution du jeu.
+Paramètres malheureusement indisponibles.
+Possibilité de couper et remettre le son à souhait.
+Clique de la souris pour tuer les ninjas avant qu'ils ne sortent de la fênetre.
+Au bout de 3 passages de ninjas en dehors de la fenêtre, vous perdez.
+A vous de jouer pour faire le meilleur score possible !
